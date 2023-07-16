@@ -1,5 +1,5 @@
 ##  👨 Jack
-I'm a game designer. I use Godot. I'm particularly interested in generative AI and augmented reality.
+I'm a game designer. I use Godot. I'm also interested in generative AI and augmented reality.
 
 ### Current Projects:
 
